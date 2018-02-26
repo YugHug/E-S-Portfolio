@@ -1,5 +1,5 @@
 /* add a style tag when moving to atom <style*/
-
+<style>
 /*navigation*/
 
 
@@ -423,3 +423,4 @@ div.desc {
 /*id selector for Contact Me section*/
 
 /* Close the style tag when adding code to atom </style>*/
+</style>
