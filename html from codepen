@@ -1,0 +1,194 @@
+<!--header, h1, and name id's for navigation bar-->
+
+<header>
+<h1 id="header" style="text-align:left;" font-family="Montserrat">
+ 
+  <link href='https://fonts.googleapis.com/css?family=Bad Script' rel='stylesheet'> 
+  <link href='https://fonts.googleapis.com/css?family=Poiret One' rel='stylesheet'> 
+  <link href='https://fonts.googleapis.com/css?family=Waiting for the Sunrise' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Amatic SC' rel='stylesheet'>
+  
+  <link href='https://fonts.googleapis.com/css?family=Open Sans Light 300' rel='stylesheet'> 
+  <link href='https://fonts.googleapis.com/css?family=Loved by the King' rel='stylesheet'> 
+  
+<link href='https://fonts.googleapis.com/css?family=Over the Rainbow' rel='stylesheet'>
+  
+  <link href='https://fonts.googleapis.com/css?family=Megrim' rel='stylesheet'>
+
+  <link href='https://fonts.googleapis.com/css?family=Amatic SC' rel='stylesheet'>
+    
+  <h1 id="ember-text">Embers<h1 id="and-text"><b>&</b><h1 id="sparks-text">Sparks</h1>
+    </header>   
+    <div class="boxed spotted-box" style="font-family:Amatic SC;">
+  <div> 
+    <li><a href="#home">Home</a></li>
+    <li><a href="#aboutjayjo">About Us</a></li>
+      <div class="dropdown">
+        <li><a href="#services">Services</a></li>
+          <div class="dropdown-content">
+           <li><a class="ex1" href="#">Website Development</a></li>
+            <li><a class="ex1" href="#">Business Solutions</a></li>
+            <li><a class="ex1" href="#">Book A Consultation</a></li>
+        </div></div>
+        <li><a href="#">Contact Us</a></li>
+    <li><a href="#portfolio">Portfolio
+    <li><a href="#embersandsparks">Community Program</a></li>      
+      </div>
+      </div>
+    </h1>
+   
+  <body style="background-image:url(https://i.imgur.com/uh8gYIw.png)">
+    <body>
+    <h3>
+      <a name="home"></a>
+    <p> Welcome to Embers & Sparks</p>
+    </h3>
+    <h1>
+      <p> We live to create, design, and code.</p>  
+    </h1>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+    <div class='white-background'> 
+      <a name="aboutjayjo"></a>
+      <h4> About Embers & Sparks &#8595;</h4>
+      <hr>
+      <p align="center" padding="10px 20px 20px 10px" style="font-family:Raleway;"> My name is Jay Jo Yugen. I am a web developer who loves problem-solving, research, analysis and all things tech. <br> I earned a Phd from the University of Illinois, Urbana-Champaign in Educational Policy, which is where I learned how <br>to research, and how to translate ideas into something concrete. With web development  each of these interests  align. <br>My passion is bringing concepts and ideas to life, no matter the area. <br><br>Allow my team to help you build your business. We specialize in providing business solutions that personalize your <br> company and allow it to run more efficiently. We can create your professional forms, business cards, and your website <br>(incuding all copy). We are also able to help you flush out your ideas, and with research,<br> advise you on the next steps in achieveing your goals. <br><br>In my spare time, I operate a community service organization <em> Embers & Sparks </em>. It's a passion project, which focuses on <br>girl empowerment through socioemotional development, community building, and technology. We affirm and <br>empower during intentional social interactions which a high focus on education and expression. Our program has <br>three levels: Embers, Sparks, and Fire---and all of our participants are leaders working to improve their communities <br>as they see fit. To learn more, about our community involvement program <em>click here.</em></p>
+        <br>
+        <br>
+      <div>
+        <div>
+           <h5 style="margin-left:11%"><b>DREAM</b></h5>
+           <h5 style="margin-left:24%"><b>CODE</b></h5>
+           <h5 style="margin-left:23%"><b>REACH</b></h5>
+        </div>
+      <p style="float:center; margin-right:1%; margin-bottom: 0.5em;"><b></b><img src= "https://i.imgur.com/ZigpLDO.png" style= "width:50%" alt="dream icon"></p>
+      </div>
+        <div>
+      <p style="float:center; margin-right:1%; margin-bottom: 0.5em;"><img src= "https://i.imgur.com/iyKBSrG.png" alt="code icon"><b></b></p>
+ 
+      </div>
+      <div>
+      <p style="float:center; font-family:Poiret One; color:tomato; text-align:center; margin-bottom: 0.5em; margin-left: 20px; margin-top: 0px; margin-right: 1%;"><img src= "https://i.imgur.com/42yKfBj.png" alt="www icon"><b></b></p>
+      </div> 
+      <p style="clear:both;">
+      </div>
+      
+      
+      <div class='gray-background'>
+        <a name="services"></a>
+        <h4> Services &#8595;</h4>
+        <hr>
+        <p style="float:center; margin-right:1%; margin-bottom: 0.5em;"><b></b><img src= "https://i.imgur.com/VsJShOt.png" style= "width:50%" alt="html icon"></p>
+      
+        <div>
+      <p style="float:center; margin-right:1%; margin-bottom: 0.5em;"><img src= "https://i.imgur.com/H6k1Y46.png" alt="css icon"><b></b></p>
+ 
+      </div>
+      <div>
+      <p style="float:center; font-family:Poiret One; color:tomato; text-align:center; margin-bottom: 0.5em; margin-left: 20px; margin-top: 0px; margin-right: 1%;"><img src= "https://i.imgur.com/ViEtto0.png" alt="js icon"><b></b></p>
+      </div> 
+      <p style="clear:both;">
+      </div>
+    
+    
+      <div class='red-background'>
+        <h2>“If one is lucky, a solitary fantasy can totally transform one million realities.” <br> -Maya Angelou<h2>
+          
+          </div>
+      <div class='white-background'>
+        <a name="portfolio"></a>
+        <h4> Portfolio &#8595;</h4>
+        <hr>
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img jpg here">
+              <img src="img jpg here" alt="black girl magic website" width="300" height="200">
+            </a>
+            <div class="desc"> <b>Tribute: Black Girl Magic</b></div>
+          </div>
+        </div>
+         
+          <div class="responsive">
+          <div class="gallery">
+            <a target="https://imgur.com/5u4p7wK" href="https://imgur.com/5u4p7wK">
+              <img src="https://imgur.com/5u4p7wK" alt="portfolio website" width="300" height="200">
+            </a>
+            <div class="desc"> <b>Portfolio</b></div>
+          </div>
+        </div>
+         
+                  
+<div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img jpg here">
+              <img src="img jpg here" alt="black girl magic website" width="300" height="200">
+            </a>
+            <div class="desc"> <b>COMING SOON</b></div>
+          </div>
+        </div>
+           
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img jpg here">
+              <img src="img jpg here" alt="black girl magic website" width="300" height="200">
+            </a>
+            <div class="desc"> <b>COMING SOON</b></div>
+          </div>
+        </div>
+         
+         
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img jpg here">
+              <img src="img jpg here" alt="black girl magic website" width="300" height="200">
+            </a>
+            <div class="desc"> <b>COMING SOON</b></div>
+          </div>
+        </div>
+        
+        
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img jpg here">
+              <img src="img jpg here" alt="black girl magic website" width="300" height="200">
+            </a>
+            <div class="desc"> <b>COMING SOON</b></div>
+          </div>
+        </div>
+         
+       <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img jpg here">
+              <img src="img jpg here" alt="black girl magic website" width="300" height="200">
+            </a>
+            <div class="desc"> <b>COMING SOON</b></div>
+          </div>
+        </div>   
+        
+        <div class="responsive">
+          <div class="gallery">
+            <a target="_blank" href="img jpg here">
+              <img src="img jpg here" alt="black girl magic website" width="300" height="400">
+            </a>
+            <div class="desc"> <b>Coming Soon</b></div>
+          </div>
+        </div>
+        <div class="clearfix"></div>
+            
+          
+  
+
+<!--add social media icons as hyperlinks here as a footer, with the text "Follow", like this site: http://fernwehsociety.com/2017/08/forbes-masters/  I believe they used jQuery so search for Widgets
+
+And use Jay Jo as a signature using Over the Rainbow font.-->
+
+
+</div>
+
+</div>
+
